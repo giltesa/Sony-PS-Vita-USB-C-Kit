@@ -1,14 +1,14 @@
-# Sony PSP Vita USB-C Kit
+# Sony PS Vita USB-C Kit
 
-The **Sony PSP Vita: USB-C Kit** is a board that allows to replace the original charging connector for a modern and standard **USB-C**.
+The **Sony PS Vita: USB-C Kit** is a board that allows to replace the original charging connector for a modern and standard **USB-C**.
 
 **If your original connector is too old or damaged** and you need a new one, or **if you would like to charge your Sony PS Vita with a standard USB-C charger**, like the charger of your phone, laptop, you can with this board.
 
 This board is compatible with this model:
 
-*   Sony PSP Vita
+*   Sony PS Vita
 
-![Sony-PSP-USB-C](https://raw.githubusercontent.com/giltesa/Sony-PS-Vita-USB-C-Kit/master/4.%20Photos/Sony-PS-Vita-v1.0.jpg)
+![Sony-PS-USB-C](https://raw.githubusercontent.com/giltesa/Sony-PS-Vita-USB-C-Kit/master/4.%20Photos/Sony-PS-Vita-v1.0.jpg)
 
 
 ## Would you like it?
